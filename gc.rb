@@ -1,4 +1,4 @@
-class PlatformClientSdkCli < Formula
+class Gc < Formula
   desc "A standalone CLI package to interface with the Genesys Cloud Platform API"
   url "https://github.com/MyPureCloud/platform-client-sdk-cli/archive/1.0.6.tar.gz"
   sha256 "4f7dbb6bd28e645f1bbf0228451a31354816a24ecfdb2c15a18528323bfa52d0"
