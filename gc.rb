@@ -8,7 +8,7 @@ class Gc < Formula
 
   def install
     # "bin" is a variable declared by homebrew
-    cd "build/src" do
+    cd "build/gc" do
       system "go", "build", "-o", bin/"gc", "."
     end
   end
