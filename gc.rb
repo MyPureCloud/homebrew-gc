@@ -1,7 +1,7 @@
 class Gc < Formula
   desc "A standalone CLI package to interface with the Genesys Cloud Platform API"
-  url "https://github.com/MyPureCloud/platform-client-sdk-cli/archive/2.0.1.tar.gz"
-  sha256 "07374bb39d5a7525d02c352b4044875d567bc9c028a3f90b95922de701b687b1"
+  url "https://github.com/MyPureCloud/platform-client-sdk-cli/archive/2.0.2.tar.gz"
+  sha256 "199b32fcd275e050dd6e396ffe7fe37803b84d66fdffd8273de201431f732939"
   license "MIT"
 
   depends_on "go" => :build
